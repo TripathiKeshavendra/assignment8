@@ -1,0 +1,57 @@
+#heading{
+    text-align: center;
+    background-color:#98D8AA ;
+    margin-top: 0px;
+    border-radius: 20px;
+}
+body{
+    background-image: url("background\ img.webp");
+}
+h1{
+    font-size: 50px;
+}
+.img{
+    width: 150px;
+    height: 150px;
+}
+#form{
+    text-align: center;
+    width: 60%;
+    background-color:grey;
+    margin-left: 210px;
+    margin-top: 20px;
+    border-radius: 20px;
+    opacity: 0.8;
+}
+
+body {
+    padding: 10px 50px;
+}
+
+.formdesign {
+    font-size: 20px;
+
+}
+
+.formdesign input {
+    width: 25%;
+    padding: 12px 20px;
+    border: 1px solid blue;
+    margin: 14px;
+    border-radius: 4px;
+    font-size: 15px;
+}
+
+.formerror {
+    color: red;
+}
+
+.but {
+    border-radius: 9px;
+    color: white;
+    background-color: blueviolet;
+    width: 100px;
+    height: 50px;
+    font-size: 25px;
+    margin: 22px 20px;
+}
